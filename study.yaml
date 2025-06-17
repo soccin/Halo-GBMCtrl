@@ -24,7 +24,7 @@ CELLTYPES: ${studyName}_${panel}_CellTypes__V0
 # Should not need to modify these
 #
 
-METADATA_DIR: /juno/bic/work/shared/Multiomyx/Projects/GBM/Controls/TME/meta1/${setName}
+METADATA_DIR: /juno/bic/work/shared/Multiomyx/Projects/GBM/Controls/TME/input/meta1/${setName}
 
 HALOCSV_DIR: /juno/work/bic/shared/Multiomyx/Projects/GBM/Controls/TME/input/raw/set01/HaloSpreadsheets
 
