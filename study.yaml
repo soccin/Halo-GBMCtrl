@@ -9,7 +9,7 @@ panel: TME
 setName: set01
 DATA_ROOT: /juno/bic/work/shared/Multiomyx/Projects/GBM/Controls
 
-HALOX_GITVERSION: v10_241002
+HALOX_GITVERSION: v10_250616
 
 #
 # Phase-I metadata file; select version to use
@@ -24,11 +24,11 @@ CELLTYPES: ${studyName}_${panel}_CellTypes__V0
 # Should not need to modify these
 #
 
-METADATA_DIR: /juno/work/bic/shared/Multiomyx/Projects/GBM/Controls/input/meta1/${setName}
+METADATA_DIR: /juno/bic/work/shared/Multiomyx/Projects/GBM/Controls/TME/meta1/${setName}
 
-HALOCSV_DIR: /juno/work/bic/shared/Multiomyx/Projects/GBM/Controls/input/raw/set01/HaloSpreadsheets
+HALOCSV_DIR: /juno/work/bic/shared/Multiomyx/Projects/GBM/Controls/TME/input/raw/set01/HaloSpreadsheets
 
-EXCLUSION_DIR: /juno/work/bic/shared/Multiomyx/Projects/GBM/Controls/input/raw/set01/HaloCoordinates
+EXCLUSION_DIR: /juno/work/bic/shared/Multiomyx/Projects/GBM/Controls/TME/input/raw/set01/HaloCoordinates
 
 #DRIFTDATA_DIR: ${DATA_ROOT}/${studyName}/${cohort}/${panel}/intermediate/drift/${setName}/drift_summary
 
